@@ -1,0 +1,8 @@
+I am planning on using three data sets in my final project. All three of them come from Kaggle.
+The first data set is Student Alcohol Consumption. https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
+The reason I chose this data set was because it has a lot of information on deomographics and how they are linked to alcohol consumption in students aged 15 to 22.
+The second dataset I am using is Groundhog predictions. https://www.kaggle.com/datasets/joebeachcapital/groundhog-predictions?select=groundhogs.csv
+This dataset shows whether the groundhog predicted 6 more weeks of winter or an early spring each year.
+The last dataset I am using is Employee Seperation Forecast. https://www.kaggle.com/datasets/marquis03/employee-separation-forecast?select=test_noLabel.csv
+This data set shows people in different fields, what their satisfaction levels were, their distance from work, and other factors to understand what the trend is with 
+people who decide to quit their jobs or not. 
